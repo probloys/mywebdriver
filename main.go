@@ -74,7 +74,7 @@ func Example() {
 	println(s,"3333333333333")
 	//searchbench.SendKeys("1030637731")
 	//pwd,err:=wd.FindElement(selenium.ByXPATH,"//*[@id='pwdArea']")
-	//pwd.SendKeys("Newman181204")
+	//pwd.SendKeys("aaa")
 	//searchasure,err:=wd.FindElement(selenium.ByXPATH,"//*[@id='login_button']")
 	//time.Sleep(1*time.Second)
 	//searchasure.Click()
